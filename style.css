@@ -1,0 +1,113 @@
+body{
+    margin: 0;
+}
+
+.name-highlighter{
+    color: deeppink;
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Staatliches', cursive;
+}
+
+h2{
+    font-family: 'Staatliches', cursive;
+    font-size: 40px; 
+}
+
+p{
+    font-family: 'Xanh Mono', monospace;
+    padding-bottom: 20px;
+}
+
+.link-button1{
+    text-decoration: none;
+    background-image: linear-gradient(50deg, green, red);
+    padding: 15px 25px;
+    font-weight: bold;
+    color: white;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    padding: 2%;
+    margin: 2%
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+
+.Header-area{
+    padding-bottom: 150px;
+}
+
+.link-button2{
+    text-decoration: none;
+    background-image: linear-gradient(50deg, red, blue);
+    padding: 15px 25px;
+    font-weight: bold;
+    color: white;
+}
+
+.middle-banner{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+#single-part1{
+    color: lime;
+}
+#single-part2{
+    color: magenta;
+}
+
+#mash{
+    text-align: center;
+}
+
+.design{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+}
+
+.Last-part{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#career{
+    border-left: 7px solid;
+    border-right: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+
+#style{
+    border-left: 7px solid;
+    border-right:7px solid;
+    border-image: linear-gradient(180deg, green, blue);
+    border-image-slice: 1;
+}
+
+footer{
+    text-align: center;
+}
+
+
